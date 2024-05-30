@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\MobileStoreV1.csproj": {}
+    "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\MobileStoreV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\MobileStoreV1.csproj": {
+    "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\MobileStoreV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\MobileStoreV1.csproj",
+        "projectUniqueName": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\MobileStoreV1.csproj",
         "projectName": "MobileStoreV1",
-        "projectPath": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\MobileStoreV1.csproj",
+        "projectPath": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\MobileStoreV1.csproj",
         "packagesPath": "C:\\Users\\Rami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\",
+        "outputPath": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

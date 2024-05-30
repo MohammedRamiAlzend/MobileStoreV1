@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css",
       "PackagePath": "staticwebassets\\MobileStoreV1.styles.css"
     },
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

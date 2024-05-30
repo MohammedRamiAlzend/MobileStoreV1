@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hbZP6KK6rriAuaNa8QRY7QUMRuIm/53RjP4K6F8AfW4=",
+  "Hash": "LaZ0uWsdUXMm/cyZ+6iSTctEXDuIwHaBCJKYDYQfyYQ=",
   "Source": "MobileStoreV1",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "MobileStoreV1\\wwwroot",
       "Source": "MobileStoreV1",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css",
       "SourceId": "MobileStoreV1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "MobileStoreV1.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MobileStoreV1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MobileStoreV1.bundle.scp.css",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MobileStoreV1.bundle.scp.css",
       "SourceId": "MobileStoreV1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "MobileStoreV1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MobileStoreV1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MobileStoreV1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\app.css",
       "SourceId": "MobileStoreV1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MobileStoreV1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MobileStoreV1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\favicon.png",
       "SourceId": "MobileStoreV1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\index.html",
       "SourceId": "MobileStoreV1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

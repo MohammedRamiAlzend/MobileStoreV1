@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6cz6Olg8JexRuzs9rgiVrWIIVqhxbu0kKSGt6vQ5x0/gdI2X+ElQ3diIuqVV+po9iSatQm5lP7LPoOBV21KiQ==",
+  "dgSpecHash": "nykftZLbvJ6ioTkmY/69f2Kxjq06+xeHODNZVB4x0zEbBOobR0+1zlTWjg06Dl5V15KowVs6aBD1QLvKeNohqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rami\\source\\repos\\MobileStoreV1\\MobileStoreV1\\MobileStoreV1.csproj",
+  "projectFilePath": "C:\\Users\\Rami\\Source\\Repos\\MobileStoreV111\\MobileStoreV1\\MobileStoreV1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rami\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Rami\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
