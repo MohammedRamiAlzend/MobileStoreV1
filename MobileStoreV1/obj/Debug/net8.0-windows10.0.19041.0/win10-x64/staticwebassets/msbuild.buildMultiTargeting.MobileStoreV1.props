@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MobileStoreV1.props" />
+</Project>
